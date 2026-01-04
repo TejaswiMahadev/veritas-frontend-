@@ -1,0 +1,14 @@
+[00:00:46.761] Server  LOG      ✓ Ready in 34s
+[00:06:08.343] Server  LOG      ○ Compiling / ...
+[00:08:40.865] Server  LOG     [v0] API Client initialized with base URL: "http://localhost:8000"
+[00:12:49.501] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:49.502] Browser LOG     [v0] API Client initialized with base URL: http://localhost:8000
+[00:12:49.581] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:12:49.581] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:12:49.582] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766292281815}
+[00:19:42.324] Server  LOG      ○ Compiling /audit/[id] ...
+[00:44:33.571] Browser LOG     [v0] Uploading file to: http://localhost:8000/api/upload
+[00:44:33.571] Browser LOG     [v0] File details: {"name":"Invoice_1001.pdf","size":87071,"type":"application/pdf"}
+[00:44:36.048] Browser LOG     [v0] Upload response status: 200
+[00:44:36.048] Browser LOG     [v0] Upload response data: {"file_id":"817dc9fe-0f63-488f-8941-7084953c71ba","filename":"Invoice_1001.pdf"}
+[00:45:35.031] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/audit/817dc9fe-0f63-488f-8941-7084953c71ba color: rgb(120, 120, 120) color: inherit {"dp":"/audit/[id]","o":"http://localhost:3000/audit/817dc9fe-0f63-488f-8941-7084953c71ba","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766294222282}

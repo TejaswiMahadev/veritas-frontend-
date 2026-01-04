@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__e3a37994._.js")
+R.c("server/chunks/ssr/208cf_next_dist_70684bb3._.js")
+R.c("server/chunks/ssr/208cf_next_dist_esm_build_templates_app-page_7ae34acd.js")
+R.c("server/chunks/ssr/[root-of-the-server]__018ca421._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__429fa62c._.js")
+R.c("server/chunks/ssr/208cf_next_dist_9d70281b._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__c5685b41._.js")
+R.c("server/chunks/ssr/208cf_next_dist_client_components_692ace7e._.js")
+R.c("server/chunks/ssr/208cf_next_dist_client_components_builtin_forbidden_2bec7aa5.js")
+R.c("server/chunks/ssr/20c98_veritas-frontend__next-internal_server_app__not-found_page_actions_0f234838.js")
+R.m(94800)
+module.exports=R.m(94800).exports

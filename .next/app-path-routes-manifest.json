@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/results/[id]/route": "/api/results/[id]",
+  "/api/upload/route": "/api/upload",
+  "/audit/[id]/page": "/audit/[id]",
+  "/history/page": "/history",
+  "/page": "/",
+  "/results/[id]/page": "/results/[id]",
+  "/upload/page": "/upload"
+}
